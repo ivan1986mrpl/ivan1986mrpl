@@ -39,4 +39,4 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 ## 📬 Contacts
 - 📧 Email: **aleksandrovichivan35@gmail.com**  
 - 💬 Telegram: [@ivan_mrpl](https://t.me/ivan_mrpl)  
-- 💼 LinkedIn: [Ivan Fomin](https://www.linkedin.com/in/ivan-553404281/)  
+- 💼 LinkedIn: [Ivan Fomin](https://www.linkedin.com/in/ivan-f-553404281/)  
