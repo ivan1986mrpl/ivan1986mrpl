@@ -46,6 +46,7 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
 - <a href="https://ivan-mr1.github.io/To-Do-List/dist/" target="_blank">To Do List javaScript</a>
 - <a href="https://ivan-mr1.github.io/js-project/calculator-second/" target="_blank">Calculator javaScript</a>
 
+- <a href="https://ivan-mr1.github.io/store-start/dist/" target="_blank">Optica Shop</a>
 - <a href="https://ivan-mr1.github.io/coffee/dist/" target="_blank">Coffee</a>
 - <a href="https://ivan-mr1.github.io/MK-ai-landing/dist/" target="_blank">AI Landing</a>
 - <a href="https://ivan-mr1.github.io/paris-palase-of-culture/dist/" target="_blank">Louvre</a>
