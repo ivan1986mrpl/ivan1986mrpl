@@ -87,12 +87,6 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
  
 <br>
 
-<div align="center">
-<a href="https://u8views.com/github/ivan-mr1"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
-</div>
-
-<br>
-
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ivan-mr1&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-mr1&layout=compact&theme=tokyonight"/>
