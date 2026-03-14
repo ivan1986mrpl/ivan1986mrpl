@@ -1,29 +1,27 @@
 <h1 align="center">Hi there, I'm Ivan 👋</h1>
-<h3 align="center">Junior Frontend Developer | React, JavaScript</h3>
+<h3 align="center">Frontend Developer | React, Vue.js, JavaScript</h3>
 
 ---
 
 ## About Me
-I create modern, adaptive and user-friendly web applications using **HTML, CSS, JavaScript, React**.
 
-Motivated and fast-learning Junior Front-End Developer with hands-on experience building 20+ responsive landing pages and dynamic web interfaces using HTML, CSS (SCSS), and JavaScript. Familiar with React and UI libraries, and experienced in performance optimization (Google PageSpeed 90+), version control (Git), and deployment using Netlify, Vercel, and GitHub Pages. Passionate about continuous learning, open to feedback, and eager to grow in a collaborative team environment. Strong attention to detail, responsible, and ready to take on new challenges in web development.
-
-💡 I am constantly learning, solving real problems in projects and strive to write clean, readable code.  
-✨ I am open to interesting offers where I can develop and benefit the team!
+Front-End Developer specializing in **JavaScript (ES6+), TypeScript, React, and Vue.js.** Experienced in building 40+ projects, including responsive interfaces and dynamic web applications with a focus on clean code, accessibility (A11y/WCAG), and high performance (Google PageSpeed 90+). Skilled in REST API integration and modern frontend architecture approaches such as Feature-Sliced Design and Atomic Design. Passionate about continuous learning, attention to detail, and creating scalable, user-friendly web interfaces.
 
 ---
 
 ## Tech Stack
 
-  - HTML (HTML5), JSX
-  - CSS (CSS3), Sass (SCSS), PostCSS, Bootstrap, Tailwind, Animations
-  - JavaScript (ES6+, OOP), jQuery
-  - React
+  - HTML (HTML5), PostHTML, JSX
+  - CSS (CSS3), SASS (SCSS), PostCSS, CSS Modules,
+  - Bootstrap, Tailwind, GSAP, Ant Design, Material UI, Chart.js
+  - Responsive & Adaptive Design, Pixel Perfect, Animations
+  - JavaScript, TypeScript
+  - React, Vue.js, React Router, Vue Router 4, Pinia
+  - REST API, Axios, WebSockets
   - Webpack, Gulp, Vite 
-  - ESLint, Stylelint, Prettier
-  - BEM, Accessibility, UX
-  - Git, GitHub
-  - Netlify, Vercel
+  - ESLint, Stylelint, Prettier, Husky
+  - BEM, Feature-Sliced Design (FSD), Feature-based architecture, Atomic Design, Accessibility, UX
+  - Git (GitHub, GitLab), Netlify, Vercel
   - Figma, Adobe Photoshop
 
 ---
@@ -84,13 +82,6 @@ Motivated and fast-learning Junior Front-End Developer with hands-on experience 
   <img src="https://yourinsights.vercel.app/api/insight?username=ivan-mr1&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 
- 
-<br>
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ivan-mr1&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-mr1&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
