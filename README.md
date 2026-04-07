@@ -34,7 +34,7 @@ Front-End Developer specializing in **JavaScript (ES6+), TypeScript, React, and 
 
 ## My Portfolio
 
-<a href="https://ivan-mr1.github.io/Ivan_Fomin/dist/" target="_blank">My Portfolio</a>
+<a href="https://ivan-mr1.github.io/Ivan_Fomin/" target="_blank">My Portfolio</a>
 
 ---
 <details>
