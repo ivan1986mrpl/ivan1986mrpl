@@ -62,6 +62,7 @@ Programming (OOP)
   - <a href="https://ivan-mr1.github.io/photographer/dist/" target="_blank">Portfolio Photographer</a>
   - <a href="https://ivan-mr1.github.io/landing/dist/" target="_blank">Landing</a>
   - <a href="https://ivan-mr1.github.io/Relvise/dist/" target="_blank">Relvise</a>
+  - <a href="https://ivan-mr1.github.io/js-food/" target="_blank">js-food</a>
 
   - <a href="https://ivan-mr1.github.io/alexPortfolio/dist/" target="_blank">Portfolio Alex</a>
   - <a href="https://ivan-mr1.github.io/Funiro/Funiro-main/" target="_blank">Funiro</a>
