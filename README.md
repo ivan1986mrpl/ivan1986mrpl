@@ -5,24 +5,28 @@
 
 ## About Me
 
-Front-End Developer specializing in **JavaScript (ES6+), TypeScript, React, and Vue.js.** Experienced in building 40+ projects, including responsive interfaces and dynamic web applications with a focus on clean code, accessibility (A11y/WCAG), and high performance (Google PageSpeed 90+). Skilled in REST API integration and modern frontend architecture approaches such as Feature-Sliced Design and Atomic Design. Passionate about continuous learning, attention to detail, and creating scalable, user-friendly web interfaces.
+Front-End Developer specializing in **JavaScript (ES6+), React, and Vue.js.** Experienced in building 40+ projects, including responsive interfaces and dynamic web applications with a focus on clean code, accessibility (A11y/WCAG), and high performance (Google PageSpeed 90+). Skilled in REST API integration and modern frontend architecture approaches such as Feature-Sliced Design and Atomic Design. Passionate about continuous learning, attention to detail, and creating scalable, user-friendly web interfaces.
 
 ---
 
 ## Tech Stack
 
-  - HTML (HTML5), PostHTML, JSX
-  - CSS (CSS3), SASS (SCSS), PostCSS, CSS Modules,
-  - Bootstrap, Tailwind, GSAP, Ant Design, Material UI, Chart.js
-  - Responsive & Adaptive Design, Pixel Perfect, Animations
-  - JavaScript, TypeScript
-  - React, Vue.js, React Router, Vue Router 4, Pinia
-  - REST API, Axios, WebSockets
-  - Webpack, Gulp, Vite 
-  - ESLint, Stylelint, Prettier, Husky
-  - BEM, Feature-Sliced Design (FSD), Feature-based architecture, Atomic Design, Accessibility, UX
-  - Git (GitHub, GitLab), Netlify, Vercel
-  - Figma, Adobe Photoshop
+  -  Vue.js, Vue Router 4, Pinia, Vue i18n,
+  -  React, React Router,
+  -  JavaScript (ES6+),
+  -  REST API, Axios, WebSockets,
+  -  Tailwind CSS, GSAP, Material UI, Ant-Design, Chart.js, PrimeVue, Bootstrap, i18n,
+  -  HTML (HTML5), PostHTML, JSX,
+  -  CSS (CSS3), SASS (SCSS), PostCSS, CSS Modules, Responsive & Adaptive Design, Pixel
+Perfect, Animation,
+  -  Vite, Webpack, Gulp,
+  -  BEM, Accessibility (A11y/WCAG), UI/UX,
+  -  Git (GitHub, GitLab), GitHub Actions, CI/CD, workflow, Vercel, Netlify,
+  -  Prettier, ESLint, StyleLint, Husky,
+  -  Lighthouse, validator.w3, Google PageSpeed, SEO,
+  -  Figma, Adobe Photoshop, Avocode,
+  -  Feature-Sliced Design (FSD), Feature-based architecture, Atomic Design, Object-Oriented
+Programming (OOP)
 
 ---
 
