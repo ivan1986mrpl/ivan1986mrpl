@@ -50,6 +50,7 @@ Programming (OOP)
   - <a href="https://crypto-react-roan.vercel.app/" target="_blank">Crypto React</a>
 
   - <a href="https://vue-glasses-shop.vercel.app/" target="_blank">Vue Glasses Shop</a>
+  - <a href="https://vue-catalog.vercel.app/" target="_blank">Vue Catalog</a>
   - <a href="https://vue-movies-lemon.vercel.app/" target="_blank">Vue Movies</a>
   - <a href="https://vue-store-eta.vercel.app/" target="_blank">Vue Store</a>
   - <a href="https://vue-weather-orcin.vercel.app/" target="_blank">Vue Weather</a>
